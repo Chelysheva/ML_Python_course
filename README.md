@@ -1,6 +1,5 @@
-# BDI code clinic: Machine Learning in Python with scikit-learn (3 sessions)
-## Tutor: Dr Irina Chelysheva. 
-## Contacts: Oxford profile, Twitter
+# Machine Learning in Python with scikit-learn (3 sessions)
+## Tutor: Dr Irina Chelysheva. Contacts: Oxford profile, Twitter
 
 In this short series we will get familiar with the most common Machine Learning algorithms and apply them in Python, using scikit-learn and beyond. We will perform end-to-end ML projects for various data types and research questions. We will select the best ML method by evaluating their performance, use feature selection approaches, apply cross-validation and make the actual predictions. For those previously participating in the first two sessions – new(!) third session will be covering unsupervised ML methods and their applications.
 
@@ -49,5 +48,5 @@ pandas
 
 sklearn (shorten from scikit-learn) - https://scikit-learn.org
 
-Any suitable IDE (I will use Spyder - https://www.spyder-ide.org)
+Any suitable IDE (I use Spyder - https://www.spyder-ide.org)
 
