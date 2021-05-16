@@ -38,15 +38,15 @@ Python3 - https://www.python.org
 
 Python SciPy libraries:
 
-scipy
+- scipy
 
-numpy
+- numpy
 
-matplotlib
+- matplotlib
 
-pandas
+- pandas
 
-sklearn (shorten from scikit-learn) - https://scikit-learn.org
+- sklearn (shorten from scikit-learn) - https://scikit-learn.org
 
 Any suitable IDE (I use Spyder - https://www.spyder-ide.org)
 
