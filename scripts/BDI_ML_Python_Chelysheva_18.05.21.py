@@ -218,8 +218,8 @@ for name, model in models:
 plt.boxplot(results, labels=names)
 plt.title('Algorithm Comparison')
 plt.show()
-#DTR peforms best - with b2 feature selection (RFE)
-
+# DTR peforms best - with b2 feature selection (RFE)
+# Evaluate the performance on test set
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 model = DecisionTreeRegressor(random_state=1)
